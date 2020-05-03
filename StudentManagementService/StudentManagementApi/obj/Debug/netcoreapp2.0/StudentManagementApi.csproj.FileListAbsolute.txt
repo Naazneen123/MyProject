@@ -1,0 +1,17 @@
+F:\Naazneen\StudentManagementService\StudentManagementApi\bin\Debug\netcoreapp2.0\StudentManagementApi.deps.json
+F:\Naazneen\StudentManagementService\StudentManagementApi\bin\Debug\netcoreapp2.0\StudentManagementApi.runtimeconfig.json
+F:\Naazneen\StudentManagementService\StudentManagementApi\bin\Debug\netcoreapp2.0\StudentManagementApi.runtimeconfig.dev.json
+F:\Naazneen\StudentManagementService\StudentManagementApi\bin\Debug\netcoreapp2.0\StudentManagementApi.dll
+F:\Naazneen\StudentManagementService\StudentManagementApi\bin\Debug\netcoreapp2.0\StudentManagementApi.pdb
+F:\Naazneen\StudentManagementService\StudentManagementApi\bin\Debug\netcoreapp2.0\StudentService.Data.dll
+F:\Naazneen\StudentManagementService\StudentManagementApi\bin\Debug\netcoreapp2.0\StudentService.Domain.dll
+F:\Naazneen\StudentManagementService\StudentManagementApi\bin\Debug\netcoreapp2.0\StudentService.Data.pdb
+F:\Naazneen\StudentManagementService\StudentManagementApi\bin\Debug\netcoreapp2.0\StudentService.Data.dll.config
+F:\Naazneen\StudentManagementService\StudentManagementApi\bin\Debug\netcoreapp2.0\StudentService.Domain.pdb
+F:\Naazneen\StudentManagementService\StudentManagementApi\obj\Debug\netcoreapp2.0\StudentManagementApi.csprojAssemblyReference.cache
+F:\Naazneen\StudentManagementService\StudentManagementApi\obj\Debug\netcoreapp2.0\StudentManagementApi.csproj.CoreCompileInputs.cache
+F:\Naazneen\StudentManagementService\StudentManagementApi\obj\Debug\netcoreapp2.0\StudentManagementApi.AssemblyInfoInputs.cache
+F:\Naazneen\StudentManagementService\StudentManagementApi\obj\Debug\netcoreapp2.0\StudentManagementApi.AssemblyInfo.cs
+F:\Naazneen\StudentManagementService\StudentManagementApi\obj\Debug\netcoreapp2.0\StudentManagementApi.csproj.CopyComplete
+F:\Naazneen\StudentManagementService\StudentManagementApi\obj\Debug\netcoreapp2.0\StudentManagementApi.dll
+F:\Naazneen\StudentManagementService\StudentManagementApi\obj\Debug\netcoreapp2.0\StudentManagementApi.pdb

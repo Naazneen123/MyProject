@@ -1,0 +1,5 @@
+F:\Naazneen\StudentManagementService\StudentService.Domain\bin\Debug\StudentService.Domain.dll
+F:\Naazneen\StudentManagementService\StudentService.Domain\bin\Debug\StudentService.Domain.pdb
+F:\Naazneen\StudentManagementService\StudentService.Domain\obj\Debug\StudentService.Domain.csproj.CoreCompileInputs.cache
+F:\Naazneen\StudentManagementService\StudentService.Domain\obj\Debug\StudentService.Domain.dll
+F:\Naazneen\StudentManagementService\StudentService.Domain\obj\Debug\StudentService.Domain.pdb
